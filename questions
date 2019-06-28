@@ -1,0 +1,28 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<Meta charset="utf-8">
+<title> Assignment One Nelson </title>
+<br>
+<Center><H1> Assignment One: Nelson</H1>
+<h2>June 23rd, 2019</h2>
+<h3>IT 130</h3>
+</Center>
+</head>
+<body>
+<p>Three pieces of information provided in an HTTP request object are- the name/location of the document being requested, the time the request was made, the return address or internet address of the web client, and the type or name of the web client. </p>
+<br>
+<p>An account on a web server is a necessary component for other users to view your web pages on the internet becuase the web server itself hosts the files and requested resources that are integral parts of parsing the web page and displaying content. Without the server, the html files and all other packets are unreachable to other uses who do not have the site's resources saved on their individual computers. </p>
+<br>
+<p>The naming conventions for file names in this course are that the the names should be all lower-case and spaces should be separated with underscores. These conventions do not only apply to HTML files, but also images, css files, etc.</p>
+<br>
+<p> If an online student were to run into difficulties scheduling an exam, they should contact the online learning staff. They should not contact the proffesor of the course, as they do not have anything to do with the exam scheduling process</p>
+<br>
+<p> It is important to subscribe to the news postings in order to remain consistently updated on the progress of assignments, quizzes, and any announcements or changes that are implemented and described through the News postings. <hr> <br> I have subscribed to news postings. Bethany Nelson.</p>
+<hr>
+<br>
+<p>There is both a due date and an end date for assignments due to the two day grace period allowed for assignments in the course. Each day after the legitimate due date carries a small point reduction, but the document can be submitted. However, after the grace period and 'end date', the assignment cannot be submitted for credit. </p>
+<br>
+<p>For every quiz in this course, excepting the syllabus quiz taken this week, the first quiz attempt is the only submission accepted for a grade. Any subsequent postings can be for practice, but do not count for a grade. </p>
+</body>
+</html>
