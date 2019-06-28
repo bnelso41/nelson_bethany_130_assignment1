@@ -1,0 +1,27 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<Meta charset="utf-8">
+<title>Favorite Artists</title>
+<center>Bethany's Favorite Musical Artists</center>
+<br>
+<Center>IT 130 Assignment 1</Center>
+    </head>
+<body>
+<style> p.a {font: 16px Verdana}   
+<ol {list-style-type:upper-alpha;}
+</style>
+<br>
+<a href="https://site.billieeilish.com/">Billie Eilish</a>
+<br><hr>
+<a href="http://www.childishgambino.com/">Childish Gambino</a>
+<br><hr>
+<a href="http://www.marinaofficial.co.uk/">Marina And the Diamonds</a>
+<br><hr>
+<a href="https://www.radiohead.com/deadairspace">Radiohead</a>
+<br><hr>
+<a href="https://tove-lo.com/">Tove Lo</a>
+<img arc="tove_lo_performing.jpg" alt="Tove Lo Performing" height="52" width="52">
+<!--image tag from w3schools.com -->
+</body>
+</html>
